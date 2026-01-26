@@ -3,7 +3,7 @@
   "icon": "images/TSLST.png",
   "displayName": "Tokyo Terminal Theme",
   "description": "Retro futurist 80s terminal, synthwave, Tokyo neons theme",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.60.0"
   },

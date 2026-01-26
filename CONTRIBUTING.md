@@ -1,7 +1,7 @@
 # Contributing to tokyo_terminal
 
 ## Contributors
-西涅克斯 - "O captain my captain"
+神涅克斯 - "O captain my captain"
 
 ## Access Rules
 - **Main branch**: Protected. All changes require a PR.
