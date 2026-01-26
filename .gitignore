@@ -1,0 +1,19 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.vscode/
+.idea/
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.log
+*~
+
+# Fichiers secrets
+env.md
+prd.md
+EOF
+

@@ -1,0 +1,18 @@
+{
+  "name": "tokyo_terminal-theme",
+  "icon": "images/TSLST.png",
+  "displayName": "Tokyo Terminal Theme",
+  "description": "Retro futurist 80s terminal, synthwave, Tokyo neons theme",
+  "version": "0.1.1",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [{
+      "label": "Tokyo Terminal",
+      "uiTheme": "vs-dark",
+      "path": "./themes/tokyo_terminal-theme.json"
+    }]
+  }
+}
